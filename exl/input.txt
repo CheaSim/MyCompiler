@@ -1,0 +1,18 @@
+int a = b;
+int aa = bb;
+int aaa123;
+int 123aaa;
+int main(){
+	int a = 123456;
+	b = a;
+	bb = a;
+	if(a<b) a = b;
+	if(a==b) a = b;
+	if(a>=b) a = b;
+	111asb;
+	a==b==c==d;
+	1234;1234;
+	a,b,c,d;
+	a != b;
+	a !! b;
+}
